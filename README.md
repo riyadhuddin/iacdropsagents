@@ -1,5 +1,5 @@
 # iacdrops
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/77fe6560-1a7d-4506-abb4-35a76644a3ab/deploy-status)](https://app.netlify.com/sites/iacdrops/deploys)
 iacdrops is a comprehensive platform dedicated to promoting virtual etiquette, ethics, and responsible online behavior. Our goal is to educate individuals of all ages about the do's and don'ts of the digital world, empowering them to navigate the virtual realm with confidence and respect.
 Key Features
 
