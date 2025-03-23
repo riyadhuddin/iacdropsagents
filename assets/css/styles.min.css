@@ -20,6 +20,8 @@ body {
   font-family: 'Catamaran', sans-serif;
   color: #000; /* Black text */
   background-color: #fff; /* White background */
+  margin: 0;
+  padding: 0;
 }
 
 /* Text Background */
@@ -78,4 +80,81 @@ input, textarea {
 
 input:focus, textarea:focus {
   background-color: #a0f0d0; /* Light Green Cyan */
+}
+
+/* Masthead Styles */
+.masthead {
+  background-color: #000; /* Black background for masthead */
+  padding: 100px 0; /* Adjust padding for proper header size */
+  position: relative;
+  overflow: hidden;
+}
+
+.masthead .text-white {
+  color: #fff; /* White text for masthead */
+}
+
+/* Style the masthead heading */
+.masthead-heading {
+  font-size: 48px; /* Proper heading size */
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+/* Style the masthead subheading */
+.masthead-subheading {
+  font-size: 24px; /* Proper subheading size */
+  margin-bottom: 30px;
+}
+
+/* Buttons styled with white outline */
+.btn-outline-light {
+  border: 2px solid #fff;
+  color: #fff;
+  padding: 10px 30px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+/* Add subtle hover effect to buttons */
+.btn-outline-light:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+/* Background Circles Styling */
+.bg-circle {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  background-color: rgba(255, 255, 255, 0.1); /* Faint white color */
+  border-radius: 50%;
+  animation: animateCircles 15s infinite linear;
+}
+
+/* Individual Circle Positions */
+.bg-circle-1 {
+  top: -50px;
+  left: 100px;
+}
+
+.bg-circle-2 {
+  bottom: -100px;
+  right: 100px;
+}
+
+.bg-circle-3 {
+  top: 100px;
+  right: -50px;
+}
+
+.bg-circle-4 {
+  bottom: 50px;
+  left: -50px;
+}
+
+/* Animation for Background Circles */
+@keyframes animateCircles {
+  0% { transform: translate(0, 0); }
+  100% { transform: translate(500px, 500px); }
 }
