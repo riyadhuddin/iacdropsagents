@@ -1,6 +1,6 @@
-# RealmofRespect
+# iacdrops
 
-The RealmofRespect is a comprehensive platform dedicated to promoting virtual etiquette, ethics, and responsible online behavior. Our goal is to educate individuals of all ages about the do's and don'ts of the digital world, empowering them to navigate the virtual realm with confidence and respect.
+iacdrops is a comprehensive platform dedicated to promoting virtual etiquette, ethics, and responsible online behavior. Our goal is to educate individuals of all ages about the do's and don'ts of the digital world, empowering them to navigate the virtual realm with confidence and respect.
 Key Features
 
     Virtual Etiquette Training: Our platform offers a comprehensive virtual etiquette training program that covers various aspects of online communication, video conferencing, social media behavior, and more. Participants can learn and master essential skills through interactive modules and practical exercises.
